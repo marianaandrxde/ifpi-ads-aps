@@ -1,0 +1,244 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MarianaAndrade
+build_property.RootNamespace = MarianaAndrade
+build_property.ProjectDir = /home/aluno/MarianaAndrade/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/aluno/MarianaAndrade
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/aluno/MarianaAndrade/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Itens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Itens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbnMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Itens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Itens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Itens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Marcas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2FzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Marcas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2FzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Marcas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2FzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Marcas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2FzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Marcas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWFyY2FzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/NotaDeVendas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTm90YURlVmVuZGFzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/NotaDeVendas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTm90YURlVmVuZGFzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/NotaDeVendas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTm90YURlVmVuZGFzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/NotaDeVendas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTm90YURlVmVuZGFzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/NotaDeVendas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTm90YURlVmVuZGFzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Pagamentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Pagamentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Pagamentos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Pagamentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Pagamentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/PagamentosComCartao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvc0NvbUNhcnRhby9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/PagamentosComCartao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvc0NvbUNhcnRhby9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/PagamentosComCartao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvc0NvbUNhcnRhby9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/PagamentosComCartao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvc0NvbUNhcnRhby9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/PagamentosComCartao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvc0NvbUNhcnRhby9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/PagamentosComCheque/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvc0NvbUNoZXF1ZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/PagamentosComCheque/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvc0NvbUNoZXF1ZS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/PagamentosComCheque/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvc0NvbUNoZXF1ZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/PagamentosComCheque/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvc0NvbUNoZXF1ZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/PagamentosComCheque/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvc0NvbUNoZXF1ZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Produtos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0b3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Produtos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0b3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Produtos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0b3MvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Produtos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0b3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0b3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Transportadoras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNwb3J0YWRvcmFzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Transportadoras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNwb3J0YWRvcmFzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Transportadoras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNwb3J0YWRvcmFzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Transportadoras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNwb3J0YWRvcmFzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Transportadoras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhbnNwb3J0YWRvcmFzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Vendedores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVuZGVkb3Jlcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Vendedores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVuZGVkb3Jlcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Vendedores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVuZGVkb3Jlcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Vendedores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVuZGVkb3Jlcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Vendedores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmVuZGVkb3Jlcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/aluno/MarianaAndrade/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-me98dd38nl
